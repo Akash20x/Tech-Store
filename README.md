@@ -1,7 +1,7 @@
 
 # Tech Store
 
-Ecommerce app built by using React with CommerceJS.
+Ecommerce app built by using React & CommerceJS API.
 
 ## Demo Link
 
