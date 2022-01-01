@@ -35,13 +35,13 @@ Fork the project by clicking on the fork button
 Clone the project
 
 ```bash
-  git clone https://github.com/<your github profile name>/Amazon-India-Clone.git
+  git clone https://github.com/<your github profile name>/Tech-Store.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Amazon-India-Clone
+  cd Tech-Store
 ```
 
 Install dependencies
