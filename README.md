@@ -9,13 +9,13 @@ Try out the project from here : https://tech-store-three.vercel.app/
 
 ## Features
 
+- Addition, Deletion, Updation operations to/from cart.
+- Checkout Functionality.
+- Payment Gateway using Stripe.
 - Individual Product Display
 - Fully Functional Search
 - Data fetched from CommerceJS api
 - Product Categories & Filters 
-- Addition, Deletion, Updation operations to/from cart.
-- Checkout Functionality.
-- Payment Gateway using Stripe.
 - Responsive Design
 
 
